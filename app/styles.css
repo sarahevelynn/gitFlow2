@@ -9,7 +9,8 @@ header {
 h1 {
   grid-column: 1/span 2;
   margin-left: 1rem;
-  color: orange;
+  color: yellow;
+  font-size: 4000px;
 }
 
 nav {
@@ -21,3 +22,8 @@ nav a {
   color: darkgrey;
   font-size:
 }
+ a {
+ font-style: italic;
+ color: red;
+ font-size: 354px;
+ }
