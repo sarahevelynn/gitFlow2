@@ -1,0 +1,14 @@
+header {
+  display: grid;
+  grid-template-columns: repeat(6, 1fr);
+  grid-gap: 100px;
+  align-items: end;
+  border-bottom: .3rem solid darkgrey;
+}
+
+h1 {
+  grid-column: 1/span 2;
+  margin-left: 4rem;
+  color: teal;
+  font-size: 40px;
+}
